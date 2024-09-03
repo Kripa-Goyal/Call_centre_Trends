@@ -1,7 +1,7 @@
 # Call_centre_Trends
 A dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
-## Possible KPIs include (to get you started, but not limited to):
+## Possible KPIs include:
 
 1. Overall customer satisfaction
 2. Overall calls answered/abandoned
