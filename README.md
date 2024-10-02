@@ -17,6 +17,6 @@ A dashboard in Power BI for Claire that reflects all relevant Key Performance In
 
 ## Results
 1. Overall Customer Satisfaction is 40.6%.
-2. Most Of the Positive Rating is For Agent Jim.
+2. Most Of the Positive Rating is For Agent Jim.(Positive Rating Include Customer Who has given 4 or 5)
 3. Most Of the calls are about Streaming topic.
 
