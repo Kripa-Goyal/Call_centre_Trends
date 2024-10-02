@@ -15,3 +15,8 @@ A dashboard in Power BI for Claire that reflects all relevant Key Performance In
 3. Writing Dax Functions.
 4. Feature Engineering.
 
+## Results
+1. Overall Customer Satisfaction is 40.6%.
+2. Most Of the Positive Rating is For Agent Jim.
+3. Most Of the calls are about Streaming topic.
+
